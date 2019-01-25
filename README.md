@@ -1,6 +1,8 @@
 # Pathage
-(a GIS for delivery men based on the data from OSM)
+(a GIS for delivery men based on the data from OSM)   
+'Pathage' = 'Path' +'Package'   
 
+ <br/>
 team of three: Yuwen Zheng, Zhao Sheng, Anna Shi  
 course project of ECE297, University of Toronto
 
