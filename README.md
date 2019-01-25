@@ -8,11 +8,12 @@ course project of ECE297, University of Toronto
 
 [Algorithm Demo Slides](https://docs.google.com/presentation/d/1pOjHdbiZ4rC0EQaRnbb_id5GiTZv8B68ORyDmSKU2QE/edit?usp=sharing) 
 
+ <br/>
+ <br/>
 
 
 
-
-## Screenshots
+# Preview
 
 ### 1. General
 ![alt text](https://github.com/echoztoronto/Pathage/blob/screenshot/images/image1.png)
