@@ -1,9 +1,14 @@
 # Pathage
 (a GIS for delivery men based on the data from OSM)
 
+team of three: Yuwen Zheng, Zhao Sheng, Anna Shi  
 course project of ECE297, University of Toronto
 
-team of three: Yuwen Zheng, Zhao Sheng, Anna Shi 
+ <br/>
+
+[Algorithm Demo Slides](https://docs.google.com/presentation/d/1pOjHdbiZ4rC0EQaRnbb_id5GiTZv8B68ORyDmSKU2QE/edit?usp=sharing) 
+
+
 
 
 
