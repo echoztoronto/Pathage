@@ -3,8 +3,8 @@
 'Pathage' = 'Path' +'Package'   
 
  <br/>
-team of three: Yuwen Zheng, Zhao Sheng, Anna Shi  
-course project of ECE297, University of Toronto
+team of three: Yuwen Zheng, Zhao Sheng, Anna Shi  <br/>
+course project of ECE297, University of Toronto  
 
  <br/>
 
