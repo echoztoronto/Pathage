@@ -1,5 +1,5 @@
 # Pathage
-a geographic information system for delivery men based on the data from OpenStreetMap     
+a geographic information system using data from OpenStreetMap    
  
 
 ## Project Info
