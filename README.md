@@ -1,14 +1,11 @@
 # Pathage
-(a GIS for delivery men based on the data from OSM)   
+a geographic information system for delivery men based on the data from OpenStreetMap     
 'Pathage' = 'Path' +'Package'   
 
- <br/>
-team of three: Yuwen Zheng, Zhao Sheng, Anna Shi  <br/>
-course project of ECE297, University of Toronto  
-
- <br/>
-
-[Algorithm Demo Slides](https://docs.google.com/presentation/d/1pOjHdbiZ4rC0EQaRnbb_id5GiTZv8B68ORyDmSKU2QE/edit?usp=sharing) 
+# Project Info
+- Contributors: Yuwen Zheng, Zhao Sheng, Anna Shi  
+- Course project of ECE297, University of Toronto  
+- Algorithm used: A*, greedy, selection swap, pair swap, 2 opt  [(Algorithm Demo Slides)](https://docs.google.com/presentation/d/1pOjHdbiZ4rC0EQaRnbb_id5GiTZv8B68ORyDmSKU2QE/edit?usp=sharing) 
 
  <br/>
 
@@ -16,7 +13,7 @@ course project of ECE297, University of Toronto
 
 
 # Preview
-note: some of the screenshots are outdated, unfortunately I can't re-screenshot because the school has changed some files' names and paths 
+Note: some of the screenshots are outdated, unfortunately I can't re-screenshot because the school has changed some files' names and paths 
 
 ### 1. General
 ![alt text](https://github.com/echoztoronto/Pathage/blob/screenshot/images/image1.png)
