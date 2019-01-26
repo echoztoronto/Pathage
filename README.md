@@ -10,7 +10,7 @@ a geographic information system for delivery men based on the data from OpenStre
 
 
 # Preview
-Note: some of the screenshots are outdated, unfortunately I can't re-screenshot because the school has changed some files' names and paths 
+Note: some of the screenshots are outdated, unfortunately I can't update them because some of the source files in school's system have changed.
 
 ### 1. General
 ![alt text](https://github.com/echoztoronto/Pathage/blob/screenshot/images/image1.png)
@@ -20,6 +20,7 @@ Note: some of the screenshots are outdated, unfortunately I can't re-screenshot 
 
 ### 2. Map Choosing Menu 
 #### (19 cities/regions available)
+#### (most of the icons used are from [here](https://sa3er.deviantart.com/art/World-Cities-2-0-386839729))
 ![alt text](https://github.com/echoztoronto/Pathage/blob/screenshot/images/image5.png)
 <br />
 <br />
