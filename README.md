@@ -1,4 +1,4 @@
-# Project Info
+# Info
 - a geographic information system using data from OpenStreetMap
 - Contributors: Yuwen Zheng, Zhao Sheng, Anna Shi  
 - Course project of ECE297, University of Toronto  
