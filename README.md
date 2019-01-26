@@ -2,7 +2,7 @@
 a geographic information system for delivery men based on the data from OpenStreetMap     
  
 
-# Project Info
+## Project Info
 - Contributors: Yuwen Zheng, Zhao Sheng, Anna Shi  
 - Course project of ECE297, University of Toronto  
 - Algorithm used: A*, greedy, selection swap, pair swap, 2 opt  [(Algorithm Demo Slides)](https://docs.google.com/presentation/d/1pOjHdbiZ4rC0EQaRnbb_id5GiTZv8B68ORyDmSKU2QE/edit?usp=sharing) 
