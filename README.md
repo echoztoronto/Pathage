@@ -12,6 +12,8 @@ Note: some of the screenshots are outdated, unfortunately I can't update them be
 ### 1. General
 ![alt text](https://github.com/echoztoronto/Pathage/blob/screenshot/images/image1.png)
 ![alt text](https://github.com/echoztoronto/Pathage/blob/screenshot/images/image7.png)
+#### help screen
+![alt text](https://github.com/echoztoronto/Pathage/blob/screenshot/images/help.jpg)
 <br />
 <br />
 
