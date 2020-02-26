@@ -4,10 +4,10 @@
 - Course project in University of Toronto  
 - Algorithm used: A*, greedy, selection swap, pair swap, 2 opt  [(Algorithm Demo Slides)](https://docs.google.com/presentation/d/1pOjHdbiZ4rC0EQaRnbb_id5GiTZv8B68ORyDmSKU2QE/edit?usp=sharing) 
 - Project is named 'Pathage' as it's the combination of 'Path' and 'Package'  
+- Many files are out-dated, please do not try to build/run it, it won't work 
 
 
 # Preview
-Note: some of the screenshots are outdated, unfortunately I can't update them because some of the source files in school's system have changed.
 
 ### 1. General
 ![alt text](https://github.com/echoztoronto/Pathage/blob/screenshot/images/image1.png)
